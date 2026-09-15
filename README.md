@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm SonicGenie 👋</h1>
 
-<!--
-**thesonicgenie/thesonicgenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building things, breaking things, shipping things.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:thesonicgenie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thesonicgenie%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="mailto:abhishek.aimarine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishek.aimarine%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/thesonicgenie">
+    <img src="https://img.shields.io/badge/GitHub-thesonicgenie-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesonicgenie&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=thesonicgenie&theme=default&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesonicgenie&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesonicgenie&theme=minimal&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Let's connect — always open to interesting projects and conversations.</sub>
+</p>
